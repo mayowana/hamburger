@@ -72,3 +72,20 @@ div .bar3 {
 .change .bar2 {
     opacity: 0;
 }
+
+@media only screen and (max-width: 1023px) {
+    .circle {
+        width: 250px;
+        height: 250px;
+        border: 10px solid white;
+    }
+    
+    div .bar1,
+    div .bar2,
+    div .bar3 {
+        width: 200px;
+        height: 10px;
+        margin: 5px 0;
+    }
+    
+}
