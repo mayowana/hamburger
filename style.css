@@ -62,11 +62,11 @@ div .bar3 {
 }
 
 .change .bar1 {
-    transform: rotate(-45deg) translate(-29px, 150%);
+    transform: rotate(-45deg) translate(-8%, 150%);
 }
 
 .change .bar3 {
-    transform: rotate(45deg) translate(-10%, -100%);
+    transform: rotate(45deg) translate(-8%, -150%);
 }
 
 .change .bar2 {
